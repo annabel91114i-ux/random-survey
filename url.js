@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://docs.google.com/forms/d/e/1FAIpQLScQk478qHcGjpMps8XQ118b6nzFgYW0-PyTsikWDb7GJTzYqQ/viewform?usp=header',
+	'https://docs.google.com/forms/d/e/1FAIpQLScQk478qHcGjpMps8XQ118b6nzFgYW0-PyTsikWDb7GJTzYqQ/viewform?usp=header',
+	'https://docs.google.com/forms/d/e/1FAIpQLScQk478qHcGjpMps8XQ118b6nzFgYW0-PyTsikWDb7GJTzYqQ/viewform?usp=header',
 ];
